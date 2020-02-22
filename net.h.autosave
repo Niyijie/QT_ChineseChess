@@ -1,0 +1,17 @@
+#ifndef NET_H
+#define NET_H
+
+#include <QTcpServer>
+#include <QTcpSocket>
+
+class net
+{
+public:
+    net();
+    
+private:
+     
+    
+};
+
+#endif // NET_H
